@@ -58,7 +58,7 @@ Digite o gênero (Ficção, Romance, Biografia, Mistério): Ficção
 Digite a quantidade de exemplares: 15
 A quantidade máxima para Ficção é 10. A quantidade será ajustada.
 
-Estoque total: 10 livros
+Estoque total: 10 livr
 Título: O Pequeno Príncipe, Gênero: Ficção, Quantidade: 10
 
 Deseja adicionar outro livro? (sim/não): não
